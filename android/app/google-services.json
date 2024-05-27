@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37960151575",
+    "project_id": "books-c37ce",
+    "storage_bucket": "books-c37ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37960151575:android:4ff54fcf7a417cf290e252",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGORHUyZnuhn_EkQ_SENz5kw63PFOp6OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
